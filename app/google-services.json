@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "337528179941",
+    "firebase_url": "https://simplegame-65e9b.firebaseio.com",
+    "project_id": "simplegame-65e9b",
+    "storage_bucket": "simplegame-65e9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337528179941:android:c821545de9aaa55a",
+        "android_client_info": {
+          "package_name": "com.example.yuninje.simplegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337528179941-dv4vqvi5f4faritdpcgn4eaomlnc9jh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yuninje.simplegame",
+            "certificate_hash": "60e1e67d1f88db7b1df3a8a533491d8c896970e1"
+          }
+        },
+        {
+          "client_id": "337528179941-jcu4r22pie18kl2sre8m5ng67fuk30nj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "337528179941-jcu4r22pie18kl2sre8m5ng67fuk30nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWcNZl6EugH0mZvWSNLy3T6WEpRGElqlQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337528179941-jcu4r22pie18kl2sre8m5ng67fuk30nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
