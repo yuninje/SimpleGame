@@ -25,7 +25,6 @@ public class ListView_Adapter extends ArrayAdapter{
     public ListView_Adapter(@NonNull Context context, List<ListViewItem> listViewItemList) {
         super(context, R.layout.r_activity_ranking, listViewItemList);
         itemList = listViewItemList;
-        Log.w("ㅋㅋㅋ","ListView_Adapter");
         this.context = context;
         ranking = 1;
     }
@@ -34,7 +33,6 @@ public class ListView_Adapter extends ArrayAdapter{
     @Override
     public View getView(int position, View convertView, ViewGroup parent){
 
-        Log.w("ㅋㅋㅋ","getView");
         if(convertView == null){
             convertView = LayoutInflater.from(context).inflate(R.layout.r_activity_list_view_item, parent, false);
         }
