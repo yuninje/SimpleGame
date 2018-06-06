@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-import com.example.yuninje.simplegame.Ranking.RankingActivity;
+import com.example.yuninje.simplegame.ranking.RankingActivity;
 import com.example.yuninje.simplegame.avoid_circle.Avoid_Circle_Difficulty;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;

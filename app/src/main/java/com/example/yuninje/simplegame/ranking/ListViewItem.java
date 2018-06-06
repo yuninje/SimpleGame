@@ -1,7 +1,4 @@
-package com.example.yuninje.simplegame.Ranking;
-
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
+package com.example.yuninje.simplegame.ranking;
 
 public class ListViewItem {
     // ranking , id, score, date

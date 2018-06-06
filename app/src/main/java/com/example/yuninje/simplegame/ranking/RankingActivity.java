@@ -1,4 +1,4 @@
-package com.example.yuninje.simplegame.Ranking;
+package com.example.yuninje.simplegame.ranking;
 
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;

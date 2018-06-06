@@ -20,8 +20,7 @@
         <activity android:name=".avoid_circle.Avoid_Circle_Difficulty" />
         <activity android:name=".avoid_circle.AC_Draw_View_Execute" />
         <activity android:name=".NewAccountActivity" />
-        <activity android:name=".Ranking.ListViewItem" />
-        <activity android:name=".Ranking.RankingActivity" />
+        <activity android:name=".ranking.RankingActivity" />
         <activity android:name=".LoginActivity"/>
     </application>
 
