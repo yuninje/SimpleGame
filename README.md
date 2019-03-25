@@ -1,3 +1,3 @@
 # SimpleGame
-aa
-![simpleGame Gif](../simpleGame Gif.gif)
+
+![simpleGame Gif](https://github.com/yuninje/SimpleGame/blob/master/simpleGame%20Gif.gif)
